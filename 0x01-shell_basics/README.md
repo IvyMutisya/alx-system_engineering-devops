@@ -1,1 +1,1 @@
-learning about shell permissions
+changing user in script and shell
